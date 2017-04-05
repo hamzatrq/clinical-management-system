@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace portal.Controllers
+namespace cms.Controllers
 {
-    public class portalController : Controller
+    public class PortalController : Controller
     {
         public IActionResult Index()
         {
