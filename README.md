@@ -1,4 +1,4 @@
-# Clinical Management System
+# Stimulus ECare Clinical Management System
 
 We are trying to build a modern, cloud based clinical management system.
 
